@@ -1,0 +1,7 @@
+g++ generate.cpp -o generate
+./generate poj 1000 1000 1
+./generate poj 300000 300000 2
+./generate poj 500000 100000 3
+./generate hdu 1000 1000 4
+./generate hdu 300000 300000 5
+./generate hdu 500000 100000 6

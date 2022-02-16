@@ -1,0 +1,54 @@
+naive_hashing, linear_probe, 1.in, time: 0.01031 s
+naive_hashing, linear_probe, 2.in, time: 10.0002 s (break)
+naive_hashing, linear_probe, 3.in, time: 10.0002 s (break)
+naive_hashing, linear_probe, 4.in, time: 0.009532 s
+naive_hashing, linear_probe, 5.in, time: 10.0002 s (break)
+naive_hashing, linear_probe, 6.in, time: 10.0001 s (break)
+naive_hashing, two_square_probe, 1.in, time: 0.004453 s
+naive_hashing, two_square_probe, 2.in, time: 10 s (break)
+naive_hashing, two_square_probe, 3.in, time: 10.0001 s (break)
+naive_hashing, two_square_probe, 4.in, time: 0.004465 s
+naive_hashing, two_square_probe, 5.in, time: 10 s (break)
+naive_hashing, two_square_probe, 6.in, time: 10.0001 s (break)
+naive_hashing, overflow_probe, 1.in, time: 0.007664 s
+naive_hashing, overflow_probe, 2.in, time: 10.0002 s (break)
+naive_hashing, overflow_probe, 3.in, time: 10.0001 s (break)
+naive_hashing, overflow_probe, 4.in, time: 0.008215 s
+naive_hashing, overflow_probe, 5.in, time: 10 s (break)
+naive_hashing, overflow_probe, 6.in, time: 10.0002 s (break)
+ascii_hashing, linear_probe, 1.in, time: 0.003979 s
+ascii_hashing, linear_probe, 2.in, time: 0.323086 s
+ascii_hashing, linear_probe, 3.in, time: 0.341588 s
+ascii_hashing, linear_probe, 4.in, time: 0.004453 s
+ascii_hashing, linear_probe, 5.in, time: 0.368638 s
+ascii_hashing, linear_probe, 6.in, time: 1.12432 s
+ascii_hashing, two_square_probe, 1.in, time: 0.00378 s
+ascii_hashing, two_square_probe, 2.in, time: 0.319755 s
+ascii_hashing, two_square_probe, 3.in, time: 0.342641 s
+ascii_hashing, two_square_probe, 4.in, time: 0.003742 s
+ascii_hashing, two_square_probe, 5.in, time: 0.3255 s
+ascii_hashing, two_square_probe, 6.in, time: 0.399856 s
+ascii_hashing, overflow_probe, 1.in, time: 0.004273 s
+ascii_hashing, overflow_probe, 2.in, time: 10.0001 s (break)
+ascii_hashing, overflow_probe, 3.in, time: 10.0002 s (break)
+ascii_hashing, overflow_probe, 4.in, time: 0.004001 s
+ascii_hashing, overflow_probe, 5.in, time: 10.0001 s (break)
+ascii_hashing, overflow_probe, 6.in, time: 10 s (break)
+utf8_hashing, linear_probe, 1.in, time: 0.003979 s
+utf8_hashing, linear_probe, 2.in, time: 0.329113 s
+utf8_hashing, linear_probe, 3.in, time: 0.339498 s
+utf8_hashing, linear_probe, 4.in, time: 0.00398 s
+utf8_hashing, linear_probe, 5.in, time: 0.352791 s
+utf8_hashing, linear_probe, 6.in, time: 0.473785 s
+utf8_hashing, two_square_probe, 1.in, time: 0.004031 s
+utf8_hashing, two_square_probe, 2.in, time: 0.316047 s
+utf8_hashing, two_square_probe, 3.in, time: 0.34485 s
+utf8_hashing, two_square_probe, 4.in, time: 0.004006 s
+utf8_hashing, two_square_probe, 5.in, time: 0.322458 s
+utf8_hashing, two_square_probe, 6.in, time: 0.383736 s
+utf8_hashing, overflow_probe, 1.in, time: 0.004137 s
+utf8_hashing, overflow_probe, 2.in, time: 10.0002 s (break)
+utf8_hashing, overflow_probe, 3.in, time: 10.0002 s (break)
+utf8_hashing, overflow_probe, 4.in, time: 0.003998 s
+utf8_hashing, overflow_probe, 5.in, time: 10.0001 s (break)
+utf8_hashing, overflow_probe, 6.in, time: 10.0002 s (break)
